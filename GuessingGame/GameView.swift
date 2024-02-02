@@ -98,6 +98,8 @@ struct GameView: View {
         // When should then guess lower?
         // FILL IN THIS CODE
         
+        
+        
         // Save the user's guesses
         guessesMade.append(selectedNumber)
         
